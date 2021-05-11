@@ -1,0 +1,3 @@
+include ':globalFloat'
+include ':app'
+rootProject.name = "GlobalFloatDemo"
